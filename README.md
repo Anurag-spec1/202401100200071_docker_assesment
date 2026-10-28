@@ -15,7 +15,9 @@
 
 ## Digest of 1.0.0 as pushed to Docker Hub
 
-Not published yet. Add the registry digest after pushing `anurag018018/fest-backend:1.0.0`.
+```
+sha256:cecce84f94b3a5d11c0567246fccc95161ce5fbf4c42a5d0022b098ed0104c1a
+```
 
 ## Vulnerability table (Stage 3.3)
 
@@ -28,5 +30,5 @@ Counts sum the per-target `Total:` lines in the corresponding Trivy report. Imag
 
 ## Steps not completed
 
-- Docker Hub publication and cosign signing/verification are pending because `anurag018018/fest-backend:1.0.0` is not present on Docker Hub yet.
-- Assessment screenshots still need to be captured by the student on their machine, as required by the runbook.
+- Cosign key generation, signing 1.0.0, verifying the signed and unsigned images, and their screenshots remain to be done.
+- Assessment screenshots still need to be captured by the student on their machine; the required registration entries also need to be added in the browser for the screenshots.
