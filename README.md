@@ -32,4 +32,4 @@ Counts sum the per-target `Total:` lines in the corresponding Trivy report. Imag
 
 ## Steps not completed
 
-- Assessment screenshots still need to be captured by the student on their machine; the required registration entries also need to be added in the browser for the screenshots.
+- Assessment screenshots still need to be captured by the student on their machine. The two example registrations are present, and the app is running locally with the published 1.0.0 image.
